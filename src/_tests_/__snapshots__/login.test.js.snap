@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login Screen should success with correct credentials 1`] = `Array []`;
